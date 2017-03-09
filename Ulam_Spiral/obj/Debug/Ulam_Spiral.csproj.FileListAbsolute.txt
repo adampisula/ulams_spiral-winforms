@@ -1,0 +1,9 @@
+c:\users\adam\documents\visual studio 2015\Projects\Ulam_Spiral\Ulam_Spiral\bin\Debug\Ulam_Spiral.exe.config
+c:\users\adam\documents\visual studio 2015\Projects\Ulam_Spiral\Ulam_Spiral\obj\Debug\Ulam_Spiral.Form1.resources
+c:\users\adam\documents\visual studio 2015\Projects\Ulam_Spiral\Ulam_Spiral\obj\Debug\Ulam_Spiral.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2015\Projects\Ulam_Spiral\Ulam_Spiral\obj\Debug\Ulam_Spiral.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2015\Projects\Ulam_Spiral\Ulam_Spiral\bin\Debug\Ulam_Spiral.exe
+c:\users\adam\documents\visual studio 2015\Projects\Ulam_Spiral\Ulam_Spiral\bin\Debug\Ulam_Spiral.pdb
+c:\users\adam\documents\visual studio 2015\Projects\Ulam_Spiral\Ulam_Spiral\obj\Debug\Ulam_Spiral.exe
+c:\users\adam\documents\visual studio 2015\Projects\Ulam_Spiral\Ulam_Spiral\obj\Debug\Ulam_Spiral.pdb
+c:\users\adam\documents\visual studio 2015\Projects\Ulam_Spiral\Ulam_Spiral\obj\Debug\Ulam_Spiral.csprojResolveAssemblyReference.cache

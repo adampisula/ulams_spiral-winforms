@@ -1,0 +1,10 @@
+/home/adampisula/Projects/2016/ulams_spiral/ulams_spiral_final/Ulam_Spiral/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/adampisula/Projects/2016/ulams_spiral/ulams_spiral_final/Ulam_Spiral/obj/Debug/Ulam_Spiral.Form1.resources
+/home/adampisula/Projects/2016/ulams_spiral/ulams_spiral_final/Ulam_Spiral/obj/Debug/Ulam_Spiral.Properties.Resources.resources
+/home/adampisula/Projects/2016/ulams_spiral/ulams_spiral_final/Ulam_Spiral/bin/Debug/Ulam_Spiral.exe.config
+/home/adampisula/Projects/2016/ulams_spiral/ulams_spiral_final/Ulam_Spiral/bin/Debug/Ulam_Spiral.exe.mdb
+/home/adampisula/Projects/2016/ulams_spiral/ulams_spiral_final/Ulam_Spiral/bin/Debug/Ulam_Spiral.pdb
+/home/adampisula/Projects/2016/ulams_spiral/ulams_spiral_final/Ulam_Spiral/bin/Debug/Ulam_Spiral.exe
+/home/adampisula/Projects/2016/ulams_spiral/ulams_spiral_final/Ulam_Spiral/obj/Debug/Ulam_Spiral.exe
+/home/adampisula/Projects/2016/ulams_spiral/ulams_spiral_final/Ulam_Spiral/obj/Debug/Ulam_Spiral.exe.mdb
+/home/adampisula/Projects/2016/ulams_spiral/ulams_spiral_final/Ulam_Spiral/obj/Debug/Ulam_Spiral.pdb
